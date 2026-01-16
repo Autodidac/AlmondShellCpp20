@@ -4,7 +4,7 @@
 
 # AlmondShell
 
-**AlmondShell** is a modern **C++23, modules-first software engine** that forms the foundation layer for the evolving AlmondEngine project.
+**AlmondShell** is a modern **C++20, modules-first software engine** that forms the foundation layer for the evolving AlmondEngine project.
 It distils over **4,000 hours** of engineering effort invested into getting a multi-context, multi-threaded, fully featured atlas system working—resulting in a flexible runtime that can:
 
 - Substitute AlmondEngine's Vulkan and DirectX layers with multiple 2D graphics back-end contexts.
