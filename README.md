@@ -359,6 +359,6 @@ For substantial changes, open an issue first to discuss direction.
 
 ## License
 
-The project uses the `LicenseRef-MIT-NoSell` license variant. See [`LICENSE`](LICENSE) for the full terms, including restrictions on commercial use and warranty disclaimers.
+The project uses the `MIT` license variant. See [`LICENSE`](LICENSE) for the full terms, including restrictions on commercial use and warranty disclaimers.
 
 
